@@ -14,7 +14,7 @@ pip install -r requirements.txt
 #### 2. Aconselha-se o uso da IDLE PyCharm:
 
 ```shell
-https://www.jetbrains.com/pt-br/pycharm/download/#section=windows
+https://www.jetbrains.com/pt-br/pycharm/download/
 ```
 ou 
 ```shell
