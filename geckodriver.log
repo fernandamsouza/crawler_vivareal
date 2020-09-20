@@ -1,0 +1,23 @@
+1600562262848	geckodriver	INFO	Listening on 127.0.0.1:41743
+1600562262853	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOjbzuu"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600562267655	Marionette	INFO	Listening on port 37085
+1600562267703	Marionette	WARN	TLS certificate errors will be ignored for this session
+1600562272094	Marionette	INFO	Stopped listening on port 37085
+1600562290336	geckodriver	INFO	Listening on 127.0.0.1:55029
+1600562290349	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileKA5TyO"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600562296192	Marionette	INFO	Listening on port 41625
+1600562296280	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js, line 1: SyntaxError: redeclaration of const workbox
+1600562329707	Marionette	INFO	Stopped listening on port 41625
+1600562957014	geckodriver	INFO	Listening on 127.0.0.1:59419
+1600562958034	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2o2tZj"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 159: TypeError: date is undefined
+1600562963043	Marionette	INFO	Listening on port 43893
+1600562963086	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://storage.googleapis.com/workbox-cdn/releases/3.5.0/workbox-sw.js, line 1: SyntaxError: redeclaration of const workbox
+1600563003669	Marionette	INFO	Stopped listening on port 43893
