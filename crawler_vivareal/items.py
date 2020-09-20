@@ -16,7 +16,6 @@ class VivaRealItems(scrapy.Item):
     metragem = scrapy.Field()
     aluguel = scrapy.Field()
     endereco = scrapy.Field()
-    imobiliaria = scrapy.Field()
     condominio = scrapy.Field()
     num_quartos = scrapy.Field()
     num_vagas_garagem = scrapy.Field()
